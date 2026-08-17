@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-oikzyl.biggamingwin.xyz/sitemap.xml
